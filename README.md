@@ -3,7 +3,7 @@ En este bootcamp conoceras las herramientas de IBM Cloud, asosciadas con su Inte
 
 Estas herramientas las encontraras en [![IBM Cloud powered][img-ibmcloud-powered]][url-ibmcloud]
 
-Conoceras la inteligencia artificial de IBM Cloud Watson [![IBM Cloud Watson][img-ibmcloud-watson][url-ibmcloud-watson]]
+Conoceras la inteligencia artificial de IBM Cloud Watson [![IBM Cloud Watson][img-ibmcloud-watson]][url-ibmcloud-watson]
 
 Conoceras que herramientas como:
 
