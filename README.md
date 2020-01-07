@@ -37,5 +37,5 @@ Conoceras la inteligencia artificial de IBM Cloud, Watson [![IBM Cloud Watson][i
 [url-text]: https://www.ibm.com/cloud/watson-text-to-speech
 [img-discovery]: https://img.shields.io/badge/IBM%20Cloud-WatsonDiscovery-blue.svg
 [url-discovery]: https://www.ibm.com/cloud/watson-discovery
-[img-pi]: https://img.shields.io/badge/IBM%20Cloud-PersonalityInsights-blue-svg
+[img-pi]: https://img.shields.io/badge/IBM%20Cloud-PersonalityInsights-blue.svg
 [url-pi]: https://www.ibm.com/cloud/watson-personality-insights
