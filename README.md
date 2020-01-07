@@ -6,7 +6,9 @@ Estas herramientas las encontraras en [![IBM Cloud Powered][img-ibmcloud-powered
 Conoceras la inteligencia artificial de IBM Cloud, Watson [![IBM Cloud Watson][img-ibmcloud-watson]][url-ibmcloud-watson]
 
 Conoceras que herramientas como:
+    <br>
     * [![IBM Cloud Watson Assistant][img-assistant]][url-assistant]
+    <br>
     * [![IBM Cloud Visual Recognition][img-visual]][url-visual]
 
 
