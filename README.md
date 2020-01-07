@@ -11,5 +11,5 @@ Conoceras que herramientas como:
 
 [img-ibmcloud-powered]: https://img.shields.io/badge/IBM%20cloud-powered-blue.svg
 [url-ibmcloud]: https://www.ibm.com/cloud/
-[img-ibmcloud-watson]: https://img.shiels.io/badge/IBM%20cloud-watson-blue.svg
+[img-ibmcloud-watson]: https://img.shields.io/badge/IBM%20cloud-watson-blue.svg
 [url-ibmcloud-watson]: https://www.ibm.com/watson
