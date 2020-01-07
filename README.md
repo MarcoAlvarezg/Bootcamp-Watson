@@ -16,7 +16,7 @@ Conoceras que herramientas como:
 [url-ibmcloud]: https://www.ibm.com/cloud/
 [img-ibmcloud-watson]: https://img.shields.io/badge/IBM%20Cloud-Watson-blue.svg
 [url-ibmcloud-watson]: https://www.ibm.com/watson
-[img-assistant]: https://img.shields.io/badge/IBM%20Cloud-Watson-Assistant-blue.svg
+[img-assistant]: https://img.shields.io/badge/IBM%20Cloud-WatsonAssistant-blue.svg
 [url-assistant]: https://www.ibm.com/cloud/watson-assistant/
-[img-visual]: https://img.shields.io/badge/IBM%20Cloud-Watson-Visual-Recongnition-blue.svg
+[img-visual]: https://img.shields.io/badge/IBM%20Cloud-WatsonVisualRecongnition-blue.svg
 [url-visual]: https://www.ibm.com/cloud/watson-visual-recognition
