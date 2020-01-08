@@ -18,7 +18,7 @@ Conoceras la inteligencia artificial de IBM Cloud, Watson [![IBM Cloud Watson][i
 ## Puedes encontrar los demos en:
 1. [![Demo Assistant][img-demoassist]][url-demoassist]
 2. [![Demo Visual][img-demovisual]][url-demovisual]
-3. [![Demo Natural ]]
+3. 
 
 
 
@@ -45,6 +45,6 @@ Conoceras la inteligencia artificial de IBM Cloud, Watson [![IBM Cloud Watson][i
 [img-pi]: https://img.shields.io/badge/IBM%20Cloud-Personality%20Insights-blue.svg
 [url-pi]: https://www.ibm.com/mx-es/cloud/watson-personality-insights
 [img-demoassist]: https://img.shields.io/badge/DEMO-Watson%20Assistant-red.svg
-[url-demoassist]:
+<!-- [url-demoassist]: -->
 [img-demovisual]: https://img.shields.io/badge/DEMO-Watson%20Visual%20Recongnition-red.svg
 [url-demovisual]: https://watson-visual-recognition-duo-dev.ng.bluemix.net/
