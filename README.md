@@ -20,6 +20,13 @@ Conoceras la inteligencia artificial de IBM Cloud, Watson [![IBM Cloud Watson][i
 2. [![Demo Visual][img-demovisual]][url-demovisual]
 3. [![Demo Natural Language Understanding][img-demonlu]][url-demonlu]
 4. [![Demo Natural Language Classifier][img-demonlc]][url-demonlc]
+5. [![Demo Speech to text][img-demospeech]][url-demospeech]
+6. [![Demo Text To Speech][img-demotext]][url-demotext]
+7. [![Demo Discovery][img-demodis]][url-demodis]
+8. [![Demo Personality Insights][img-demopi]][url-demopi]
+
+
+
 
 
 
@@ -47,10 +54,18 @@ Conoceras la inteligencia artificial de IBM Cloud, Watson [![IBM Cloud Watson][i
 [img-pi]: https://img.shields.io/badge/IBM%20Cloud-Personality%20Insights-blue.svg
 [url-pi]: https://www.ibm.com/cloud/watson-personality-insights
 [img-demoassist]: https://img.shields.io/badge/DEMO-Watson%20Assistant-red.svg
-[url-demoassist]: https://www.ibm.com/cloud/watson-assistant/
+[url-demoassist]: https://watson-assistant-demo.ng.bluemix.net/
 [img-demovisual]: https://img.shields.io/badge/DEMO-Watson%20Visual%20Recongnition-red.svg
 [url-demovisual]: https://watson-visual-recognition-duo-dev.ng.bluemix.net/
 [img-demonlu]: https://img.shields.io/badge/DEMO-Watson%20Natural%20Language%20Understanding-red.svg
 [url-demonlu]: http://dte-nlu-demo.mybluemix.net/self-service/home
 [img-demonlc]: https://img.shields.io/badge/DEMO-Watson%20Natural%20Language%20Classifier-red.svg
 [url-demonlc]: https://natural-language-classifier-demo.ng.bluemix.net
+[img-demospeech]: https://img.shields.io/badge/DEMO-Watson%20Speech%20To%20Text-red.svg
+[url-demospeech]: https://speech-to-text-demo.ng.bluemix.net/
+[img-demotext]: https://img.shields.io/badge/DEMO-Watson%20Text%20To%20Speech-red.svg
+[url-demotext]: https://text-to-speech-demo.ng.bluemix.net/
+[img-demodis]: https://img.shields.io/badge/DEMO-Watson%20Discovery-red.svg
+[url-demodis]: https://discovery-news-demo.ng.bluemix.net/
+[img-demopi]: https//img.shields.io/badge/DEMO-Watson%20Personality%20Insights-red.svg
+[url-demopi]: https://personality-insights-demo.ng.bluemix.net/
