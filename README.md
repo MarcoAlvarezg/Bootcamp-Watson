@@ -48,5 +48,5 @@ Conoceras la inteligencia artificial de IBM Cloud, Watson [![IBM Cloud Watson][i
 [url-demoassist]: https://www.ibm.com/cloud/watson-assistant/
 [img-demovisual]: https://img.shields.io/badge/DEMO-Watson%20Visual%20Recongnition-red.svg
 [url-demovisual]: https://watson-visual-recognition-duo-dev.ng.bluemix.net/
-[img-demounder]: https://img.shields.io/badge/DEMO-Watson%20Natural%20Language%20Understanding-red.svgç
+[img-demounder]: https://img.shields.io/badge/DEMO-Watson%20Natural%20Language%20Understanding-red.svg
 [url-demounder]: http://dte-nlu-demo.mybluemix.net/self-service/home
