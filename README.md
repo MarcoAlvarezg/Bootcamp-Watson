@@ -6,14 +6,14 @@ Estas herramientas las encontraras en [![IBM Cloud Powered][img-ibmcloud-powered
 Conoceras la inteligencia artificial de IBM Cloud, Watson [![IBM Cloud Watson][img-ibmcloud-watson]][url-ibmcloud-watson]
 
 ## Conoceras que herramientas como:
-1. Un asistente virtual con: [![IBM Cloud Watson Assistant][img-assistant]][url-assistant]
-2. Reconocimiento visual con: [![IBM Cloud Watson Visual Recognition][img-visual]][url-visual]
-3. [![IBM Cloud Watson Natural Language Understanding][img-nlu]][url-nlu]
-4. [![IBM Cloud Watson Natural Language Classifier][img-nlc]][url-nlc]
-5. [![IBM Cloud Watson Speech to Text][img-speech]][url-speech]
-6. [![IBM Cloud Watson Text to Speech][img-text]][url-text]
-7. [![IBM Cloud Watson Discovery][img-discovery]][url-discovery]
-8. [![IBM Cloud Watson Personality Insights][img-pi]][url-pi]
+1. Un asistente virtual con:            [![IBM Cloud Watson Assistant][img-assistant]][url-assistant]
+2. Reconocimiento visual con:           [![IBM Cloud Watson Visual Recognition][img-visual]][url-visual]
+3. Entendimiento de lenguaje natural:   [![IBM Cloud Watson Natural Language Understanding][img-nlu]][url-nlu]
+4. Clasificacion de lenguaje natural:   [![IBM Cloud Watson Natural Language Classifier][img-nlc]][url-nlc]
+5. Transformar de voz a texto:          [![IBM Cloud Watson Speech to Text][img-speech]][url-speech]
+6. Transformar texto a voz:             [![IBM Cloud Watson Text to Speech][img-text]][url-text]
+7. Analisis de patrones en documentos:  [![IBM Cloud Watson Discovery][img-discovery]][url-discovery]
+8. Valores de la personalidad:          [![IBM Cloud Watson Personality Insights][img-pi]][url-pi]
 
 ## Puedes encontrar los demos en:
 1. [![Demo Assistant][img-demoassist]][url-demoassist]
