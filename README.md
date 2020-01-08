@@ -18,7 +18,7 @@ Conoceras la inteligencia artificial de IBM Cloud, Watson [![IBM Cloud Watson][i
 ## Puedes encontrar los demos en:
 1. [![Demo Assistant][img-demoassist]][url-demoassist]
 2. [![Demo Visual][img-demovisual]][url-demovisual]
-
+3. [![Demo Natural ]]
 
 
 
@@ -27,24 +27,24 @@ Conoceras la inteligencia artificial de IBM Cloud, Watson [![IBM Cloud Watson][i
 [img-ibmcloud-powered]: https://img.shields.io/badge/IBM%20Cloud-Powered-blue.svg
 [url-ibmcloud]: https://www.ibm.com/cloud/
 [img-ibmcloud-watson]: https://img.shields.io/badge/IBM%20Cloud-Watson-blue.svg
-[url-ibmcloud-watson]: https://www.ibm.com/watson
+[url-ibmcloud-watson]: https://www.ibm.com/mx-es/watson
 [img-assistant]: https://img.shields.io/badge/IBM%20Cloud-Watson%20Assistant-blue.svg
-[url-assistant]: https://www.ibm.com/cloud/watson-assistant/
-[img-visual]: https://img.shields.io/badge/IBM%20Cloud-WatsonVisualRecongnition-blue.svg
-[url-visual]: https://www.ibm.com/cloud/watson-visual-recognition
-[img-nlu]: https://img.shields.io/badge/IBM%20Cloud-NaturalLanguageUnderstanding-blue.svg
-[url-nlu]: https://www.ibm.com/cloud/watson-natural-language-understanding
-[img-nlc]: https://img.shields.io/badge/IBM%20Cloud-NaturalLanguageClassifier-blue.svg
-[url-nlc]: https://www.ibm.com/cloud/watson-natural-language-classifier
-[img-speech]: https://img.shields.io/badge/IBM%20Cloud-SpeechToText-blue.svg
-[url-speech]: https://www.ibm.com/cloud/watson-speech-to-text
-[img-text]: https://img.shields.io/badge/IBM%20Cloud-TextToSpeech-blue.svg
-[url-text]: https://www.ibm.com/cloud/watson-text-to-speech
-[img-discovery]: https://img.shields.io/badge/IBM%20Cloud-WatsonDiscovery-blue.svg
-[url-discovery]: https://www.ibm.com/cloud/watson-discovery
-[img-pi]: https://img.shields.io/badge/IBM%20Cloud-PersonalityInsights-blue.svg
-[url-pi]: https://www.ibm.com/cloud/watson-personality-insights
-[img-demoassist]:
+[url-assistant]: https://www.ibm.com/mx-es/cloud/watson-assistant/
+[img-visual]: https://img.shields.io/badge/IBM%20Cloud-Watson%20Visual%20Recongnition-blue.svg
+[url-visual]: https://www.ibm.com/cloud/mx-es/watson-visual-recognition
+[img-nlu]: https://img.shields.io/badge/IBM%20Cloud-Natural%20Language%20Understanding-blue.svg
+[url-nlu]: https://www.ibm.com/mx-es/cloud/watson-natural-language-understanding
+[img-nlc]: https://img.shields.io/badge/IBM%20Cloud-Natural%20Language%20Classifier-blue.svg
+[url-nlc]: https://www.ibm.com/mx-es/cloud/watson-natural-language-classifier
+[img-speech]: https://img.shields.io/badge/IBM%20Cloud-Speech%20To%20Text-blue.svg
+[url-speech]: https://www.ibm.com/mx-es/cloud/watson-speech-to-text
+[img-text]: https://img.shields.io/badge/IBM%20Cloud-Text%20To%20Speech-blue.svg
+[url-text]: https://www.ibm.com/mx-es/cloud/watson-text-to-speech
+[img-discovery]: https://img.shields.io/badge/IBM%20Cloud-Watson%20Discovery-blue.svg
+[url-discovery]: https://www.ibm.com/mx-es/cloud/watson-discovery
+[img-pi]: https://img.shields.io/badge/IBM%20Cloud-Personality%20Insights-blue.svg
+[url-pi]: https://www.ibm.com/mx-es/cloud/watson-personality-insights
+[img-demoassist]: https://img.shields.io/badge/DEMO-Watson%20Assistant-red.svg
 [url-demoassist]:
-[img-demovisual]: https://img.shields.io/badge/DEMO-VisualRecongnition-red.svg
+[img-demovisual]: https://img.shields.io/badge/DEMO-Watson%20Visual%20Recongnition-red.svg
 [url-demovisual]: https://watson-visual-recognition-duo-dev.ng.bluemix.net/
