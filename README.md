@@ -25,6 +25,9 @@ Conoceras la inteligencia artificial de IBM Cloud, Watson [![IBM Cloud Watson][i
 7. [![Demo Discovery][img-demodis]][url-demodis]
 8. [![Demo Personality Insights][img-demopi]][url-demopi]
 
+## Laboratorios:
+1. Watson Assistant [url-gitassist]
+
 
 
 
@@ -69,3 +72,4 @@ Conoceras la inteligencia artificial de IBM Cloud, Watson [![IBM Cloud Watson][i
 [url-demodis]: https://discovery-news-demo.ng.bluemix.net/
 [img-demopi]: https://img.shields.io/badge/DEMO-Watson%20Personality%20Insights-red.svg
 [url-demopi]: https://personality-insights-demo.ng.bluemix.net/
+[url-gitassist]: /assist
