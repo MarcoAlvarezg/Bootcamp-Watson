@@ -15,6 +15,11 @@ Conoceras la inteligencia artificial de IBM Cloud, Watson [![IBM Cloud Watson][i
 7. [![IBM Cloud Watson Discovery][img-discovery]][url-discovery]
 8. [![IBM Cloud Watson Personality Insights][img-pi]][url-pi]
 
+## Puedes encontrar los demos en:
+1. [![Demo Assistant][img-demoassist]][url-demoassist]
+2. [![Demo Visual][img-demovisual]][url-demovisual]
+
+
 
 
 
@@ -23,7 +28,7 @@ Conoceras la inteligencia artificial de IBM Cloud, Watson [![IBM Cloud Watson][i
 [url-ibmcloud]: https://www.ibm.com/cloud/
 [img-ibmcloud-watson]: https://img.shields.io/badge/IBM%20Cloud-Watson-blue.svg
 [url-ibmcloud-watson]: https://www.ibm.com/watson
-[img-assistant]: https://img.shields.io/badge/IBM%20Cloud-WatsonAssistant-blue.svg
+[img-assistant]: https://img.shields.io/badge/IBM%20Cloud-Watson%20Assistant-blue.svg
 [url-assistant]: https://www.ibm.com/cloud/watson-assistant/
 [img-visual]: https://img.shields.io/badge/IBM%20Cloud-WatsonVisualRecongnition-blue.svg
 [url-visual]: https://www.ibm.com/cloud/watson-visual-recognition
@@ -39,3 +44,7 @@ Conoceras la inteligencia artificial de IBM Cloud, Watson [![IBM Cloud Watson][i
 [url-discovery]: https://www.ibm.com/cloud/watson-discovery
 [img-pi]: https://img.shields.io/badge/IBM%20Cloud-PersonalityInsights-blue.svg
 [url-pi]: https://www.ibm.com/cloud/watson-personality-insights
+[img-demoassist]:
+[url-demoassist]:
+[img-demovisual]: https://img.shields.io/badge/DEMO-VisualRecongnition-red.svg
+[url-demovisual]: https://watson-visual-recognition-duo-dev.ng.bluemix.net/
