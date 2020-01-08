@@ -26,7 +26,7 @@ Conoceras la inteligencia artificial de IBM Cloud, Watson [![IBM Cloud Watson][i
 8. [![Demo Personality Insights][img-demopi]][url-demopi]
 
 ## Laboratorios:
-1. Watson Assistant [url-gitassist]
+1. [Watson Assistant][url-gitassist]
 
 
 
