@@ -27,6 +27,8 @@ Conoceras la inteligencia artificial de IBM Cloud, Watson [![IBM Cloud Watson][i
 
 ## Laboratorios:
 1. [Watson Assistant][url-gitassist]
+2. [Watson Visual Recognition][url-gitvisual]
+3. 
 
 
 
@@ -73,3 +75,4 @@ Conoceras la inteligencia artificial de IBM Cloud, Watson [![IBM Cloud Watson][i
 [img-demopi]: https://img.shields.io/badge/DEMO-Watson%20Personality%20Insights-red.svg
 [url-demopi]: https://personality-insights-demo.ng.bluemix.net/
 [url-gitassist]: /Watson_Assistant
+[url-gitvisual]: /Visual-recognition
