@@ -6,7 +6,11 @@ Estas herramientas las encontraras en [![IBM Cloud Powered][img-ibmcloud-powered
 Conoceras la inteligencia artificial de IBM Cloud, Watson [![IBM Cloud Watson][img-ibmcloud-watson]][url-ibmcloud-watson]
 
 ## Conoceras que herramientas como:
-1. Un asistente virtual con:            [![IBM Cloud Watson Assistant][img-assistant]][url-assistant]
+1. Un asistente virtual.
+¿Qué es? **Watson Assistant** es el producto de inteligencia artificial de IBM que le permite construir, entrenar e implementar interacciones conversacionales en cualquier aplicación, dispositivo o canal.
+* Puedes obtener mas información en: [![IBM Cloud Watson Assistant][img-assistant]][url-assistant]
+* Puedes probarlo en vivo en: [![Demo Assistant][img-demoassist]][url-demoassist]
+* Puedes crear el tuyo en: [Watson Assistant][url-gitassist]
 2. Reconocimiento visual con:           [![IBM Cloud Watson Visual Recognition][img-visual]][url-visual]
 3. Entendimiento de lenguaje natural:   [![IBM Cloud Watson Natural Language Understanding][img-nlu]][url-nlu]
 4. Clasificacion de lenguaje natural:   [![IBM Cloud Watson Natural Language Classifier][img-nlc]][url-nlc]
@@ -14,6 +18,7 @@ Conoceras la inteligencia artificial de IBM Cloud, Watson [![IBM Cloud Watson][i
 6. Transformar texto a voz:             [![IBM Cloud Watson Text to Speech][img-text]][url-text]
 7. Analisis de patrones en documentos:  [![IBM Cloud Watson Discovery][img-discovery]][url-discovery]
 8. Valores de la personalidad:          [![IBM Cloud Watson Personality Insights][img-pi]][url-pi]
+9. Knowledge Studio...
 
 ## Puedes encontrar los demos en:
 1. [![Demo Assistant][img-demoassist]][url-demoassist]
