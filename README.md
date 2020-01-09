@@ -8,9 +8,9 @@ Conoceras la inteligencia artificial de IBM Cloud, Watson [![IBM Cloud Watson][i
 ## Conoceras que herramientas como:
 1. Un asistente virtual.
 ¿Qué es? **Watson Assistant** es el producto de inteligencia artificial de IBM que le permite construir, entrenar e implementar interacciones conversacionales en cualquier aplicación, dispositivo o canal.
-* Puedes obtener mas información en: [![IBM Cloud Watson Assistant][img-assistant]][url-assistant]
-* Puedes probarlo en vivo en: [![Demo Assistant][img-demoassist]][url-demoassist]
-* Puedes crear el tuyo en: [Watson Assistant][url-gitassist]
+* [![IBM Cloud Watson Assistant][img-assistant]][url-assistant] Para obtener mas información.
+* [![Demo Assistant][img-demoassist]][url-demoassist] Para probarlo en vivo.
+* [![Watson Assistant][img-gitassist]][url-gitassist] Para crear el tuyo. 
 2. Reconocimiento visual con:           [![IBM Cloud Watson Visual Recognition][img-visual]][url-visual]
 3. Entendimiento de lenguaje natural:   [![IBM Cloud Watson Natural Language Understanding][img-nlu]][url-nlu]
 4. Clasificacion de lenguaje natural:   [![IBM Cloud Watson Natural Language Classifier][img-nlc]][url-nlc]
@@ -79,5 +79,6 @@ Conoceras la inteligencia artificial de IBM Cloud, Watson [![IBM Cloud Watson][i
 [url-demodis]: https://discovery-news-demo.ng.bluemix.net/
 [img-demopi]: https://img.shields.io/badge/DEMO-Watson%20Personality%20Insights-red.svg
 [url-demopi]: https://personality-insights-demo.ng.bluemix.net/
+[img-gitassist]: https://img.shields.io/badge/GIT-Watson%20Assistant-blueviolet.svg
 [url-gitassist]: /Watson_Assistant
 [url-gitvisual]: /Visual-recognition
