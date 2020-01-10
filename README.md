@@ -55,6 +55,7 @@ Analice textos con la comprensión de **Watson Natural Language Understanding** 
 **Watson Personality Insights** ayuda a pronosticar las características, las necesidades y los valores de la personalidad por medio de textos escritos. Comprenda los hábitos y las preferencias de los clientes a nivel individual y a escala.
 * [![IBM Cloud Watson Personality Insights][img-pi]][url-pi] Para obtener mayor información.
 * [![Demo Personality Insights][img-demopi]][url-demopi] Para probar como funiciona.
+* [![Watson Personality Insights][img-gitpi]][url-gitpi] Para crear el tuyo.
 
 9. Knowledge Studio...
 
@@ -107,3 +108,5 @@ Analice textos con la comprensión de **Watson Natural Language Understanding** 
 [url-gitassist]: /Watson_Assistant
 [img-gitvisual]: https://img.shields.io/badge/GIT-Watson%20Visual%20Recognition-blueviolet.svg
 [url-gitvisual]: /Visual-recognition
+[img-gitpi]: https://img.shields.io/badge/GIT-Watson%20Personality%20Insights-blueviolet.svg
+[url-gitpi]: /Personality-Insights
