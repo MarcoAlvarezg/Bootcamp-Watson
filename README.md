@@ -6,12 +6,17 @@ Estas herramientas las encontraras en [![IBM Cloud Powered][img-ibmcloud-powered
 Conoceras la inteligencia artificial de IBM Cloud, Watson [![IBM Cloud Watson][img-ibmcloud-watson]][url-ibmcloud-watson]
 
 ## Conoceras que herramientas como:
-1. Un asistente virtual.
+1. Asistente virtual.
 ¿Qué es? **Watson Assistant** es el producto de inteligencia artificial de IBM que le permite construir, entrenar e implementar interacciones conversacionales en cualquier aplicación, dispositivo o canal.
 * [![IBM Cloud Watson Assistant][img-assistant]][url-assistant] Para obtener mas información.
 * [![Demo Assistant][img-demoassist]][url-demoassist] Para probarlo en vivo.
 * [![Watson Assistant][img-gitassist]][url-gitassist] Para crear el tuyo. 
-2. Reconocimiento visual con:           [![IBM Cloud Watson Visual Recognition][img-visual]][url-visual]
+2. Reconocimiento visual.
+¿Qué es? **Watson Visual Recognition** 
+* [![IBM Cloud Watson Visual Recognition][img-visual]][url-visual] Para obtener más informacón.
+* [![Demo Visual][img-demovisual]][url-demovisual] Para probarlo en vivo.
+* [![Watson Visual Recognition][img-gitvisual]][url-gitvisual] Para crear el tuyo.
+
 3. Entendimiento de lenguaje natural:   [![IBM Cloud Watson Natural Language Understanding][img-nlu]][url-nlu]
 4. Clasificacion de lenguaje natural:   [![IBM Cloud Watson Natural Language Classifier][img-nlc]][url-nlc]
 5. Transformar de voz a texto:          [![IBM Cloud Watson Speech to Text][img-speech]][url-speech]
@@ -21,19 +26,12 @@ Conoceras la inteligencia artificial de IBM Cloud, Watson [![IBM Cloud Watson][i
 9. Knowledge Studio...
 
 ## Puedes encontrar los demos en:
-1. [![Demo Assistant][img-demoassist]][url-demoassist]
-2. [![Demo Visual][img-demovisual]][url-demovisual]
 3. [![Demo Natural Language Understanding][img-demonlu]][url-demonlu]
 4. [![Demo Natural Language Classifier][img-demonlc]][url-demonlc]
 5. [![Demo Speech to text][img-demospeech]][url-demospeech]
 6. [![Demo Text To Speech][img-demotext]][url-demotext]
 7. [![Demo Discovery][img-demodis]][url-demodis]
 8. [![Demo Personality Insights][img-demopi]][url-demopi]
-
-## Laboratorios:
-1. [Watson Assistant][url-gitassist]
-2. [Watson Visual Recognition][url-gitvisual]
-3. 
 
 
 
@@ -81,4 +79,5 @@ Conoceras la inteligencia artificial de IBM Cloud, Watson [![IBM Cloud Watson][i
 [url-demopi]: https://personality-insights-demo.ng.bluemix.net/
 [img-gitassist]: https://img.shields.io/badge/GIT-Watson%20Assistant-blueviolet.svg
 [url-gitassist]: /Watson_Assistant
+[img-gitvisual]: https://img.shields.io/badge/GIT-Watson%20Visual%20Recognition-blueviolet.svg
 [url-gitvisual]: /Visual-recognition
