@@ -6,32 +6,58 @@ Estas herramientas las encontraras en [![IBM Cloud Powered][img-ibmcloud-powered
 Conoceras la inteligencia artificial de IBM Cloud, Watson [![IBM Cloud Watson][img-ibmcloud-watson]][url-ibmcloud-watson]
 
 ## Conoceras que herramientas como:
-1. Asistente virtual.
-¿Qué es? **Watson Assistant** es el producto de inteligencia artificial de IBM que le permite construir, entrenar e implementar interacciones conversacionales en cualquier aplicación, dispositivo o canal.
+1. Asistente virtual.<br>
+¿Qué es? 
+**Watson Assistant** es el producto de inteligencia artificial de IBM que le permite construir, entrenar e implementar interacciones conversacionales en cualquier aplicación, dispositivo o canal.
 * [![IBM Cloud Watson Assistant][img-assistant]][url-assistant] Para obtener mas información.
-* [![Demo Assistant][img-demoassist]][url-demoassist] Para probarlo en vivo.
-* [![Watson Assistant][img-gitassist]][url-gitassist] Para crear el tuyo. 
-2. Reconocimiento visual.
-¿Qué es? **Watson Visual Recognition** 
+* [![Demo Assistant][img-demoassist]][url-demoassist] Para probarlo como funciona.
+* [![Watson Assistant][img-gitassist]][url-gitassist] Para crear el tuyo.
+
+2. Reconocimiento visual.<br>
+¿Qué es? 
+**Watson Visual Recognition** entiende el contenido de las imágenes. Analiza imágenes para encontrar escenas, objetos, caras, colores, alimentos, y otros temas que le pueden dar perspectiva sobre el contenido visual.
 * [![IBM Cloud Watson Visual Recognition][img-visual]][url-visual] Para obtener más informacón.
-* [![Demo Visual][img-demovisual]][url-demovisual] Para probarlo en vivo.
+* [![Demo Visual][img-demovisual]][url-demovisual] Para probar como funciona.
 * [![Watson Visual Recognition][img-gitvisual]][url-gitvisual] Para crear el tuyo.
 
-3. Entendimiento de lenguaje natural:   [![IBM Cloud Watson Natural Language Understanding][img-nlu]][url-nlu]
-4. Clasificacion de lenguaje natural:   [![IBM Cloud Watson Natural Language Classifier][img-nlc]][url-nlc]
-5. Transformar de voz a texto:          [![IBM Cloud Watson Speech to Text][img-speech]][url-speech]
-6. Transformar texto a voz:             [![IBM Cloud Watson Text to Speech][img-text]][url-text]
-7. Analisis de patrones en documentos:  [![IBM Cloud Watson Discovery][img-discovery]][url-discovery]
-8. Valores de la personalidad:          [![IBM Cloud Watson Personality Insights][img-pi]][url-pi]
+3. Entendimiento de lenguaje natural.<br>
+¿Qué es?
+Analice textos con la comprensión de **Watson Natural Language Understanding** para extraer metadatos del contenido, como: conceptos, entidades, palabras clave, categorías, sentimientos, emociones, relaciones y roles semánticos. 
+* [![IBM Cloud Watson Natural Language Understanding][img-nlu]][url-nlu] Para obtener más información.
+* [![Demo Natural Language Understanding][img-demonlu]][url-demonlu] Para probar como funciona.
+
+4. Clasificacion de lenguaje natural.<br>
+¿Qué es?
+**Watson Natural Language Classifier** devuelve las clases que mejor coinciden para una oración o frase. Por ejemplo, usted envía una pregunta y esto devuelve las claves para las respuestas que mejor coinciden o las acciones siguientes para su aplicación.
+* [![IBM Cloud Watson Natural Language Classifier][img-nlc]][url-nlc] Para obtener más información.
+* [![Demo Natural Language Classifier][img-demonlc]][url-demonlc] Para probar como funciona.
+
+5. Voz a texto.<br>
+¿Qué es?
+**Watson Speech to Text** brinda una API para añadir funciones de transcripción de voz a las aplicaciones. Combina información sobre la estructura del lenguaje con la composición de la señal de audio.
+* [![IBM Cloud Watson Speech to Text][img-speech]][url-speech] Para obtener mayor información.
+* [![Demo Speech to text][img-demospeech]][url-demospeech] Para probar como funciona.
+
+6. Texto a voz.<br>
+¿Qué es?
+**Watson Text to Speech** genera audios con voces similares a las de los humanos a partir de textos escritos. Mejore la experiencia y participación del cliente al interactuar con los usuarios en múltiples idiomas y tonos. Incremente la accesibilidad a contenido para los usuarios con capacidades diferentes, ofrezca opciones de audio para evitar distracciones al conducir o automatice las interacciones de servicio al cliente para aumentar la eficiencia.
+* [![IBM Cloud Watson Text to Speech][img-text]][url-text] Para obtener mayor información.
+* [![Demo Text To Speech][img-demotext]][url-demotext] Para probar como funciona.
+
+7. Analisis de patrones en documentos.<br>
+¿Qué es?
+**Watson Discovery** facilita la construcción de aplicaciones de exploración cognitivas y basadas en la nube que desbloquean las percepciones accionables que hay ocultos en los datos no estructurados, permitiendo extraer el sentimiento, las entidades, los conceptos, los roles semánticos, etc..
+* [![IBM Cloud Watson Discovery][img-discovery]][url-discovery] Para obtener mayor información.
+* [![Demo Discovery][img-demodis]][url-demodis] Para probar como funciona.
+
+8. Valores de la personalidad.<br>
+¿Qué es?
+**Watson Personality Insights** ayuda a pronosticar las características, las necesidades y los valores de la personalidad por medio de textos escritos. Comprenda los hábitos y las preferencias de los clientes a nivel individual y a escala.
+* [![IBM Cloud Watson Personality Insights][img-pi]][url-pi] Para obtener mayor información.
+* [![Demo Personality Insights][img-demopi]][url-demopi] Para probar como funiciona.
+
 9. Knowledge Studio...
 
-## Puedes encontrar los demos en:
-3. [![Demo Natural Language Understanding][img-demonlu]][url-demonlu]
-4. [![Demo Natural Language Classifier][img-demonlc]][url-demonlc]
-5. [![Demo Speech to text][img-demospeech]][url-demospeech]
-6. [![Demo Text To Speech][img-demotext]][url-demotext]
-7. [![Demo Discovery][img-demodis]][url-demodis]
-8. [![Demo Personality Insights][img-demopi]][url-demopi]
 
 
 
