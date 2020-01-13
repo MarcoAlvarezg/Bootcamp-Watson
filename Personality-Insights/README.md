@@ -32,9 +32,9 @@ Aplicación que simula una herramienta que ayuda a pronosticar las característi
 
 Empezaremos creando nuestro servicio dentro de IBM Cloud. Para esto, iremos a la parte de catalogo y buscaremos Personality Insihgts.
 
-![](/docs/im1.png)
+![](Personality-Insights/docs/im1.png)
 
-![](/docs/im2.png)
+![](Personality-Insights/docs/im2.png)
 
 
 Seleccionamos la region mas cercana, la version **LITE**, lo nombramos, y le agregamos los **TAGS** necesarios, para finalizar le daremos click en crear.
