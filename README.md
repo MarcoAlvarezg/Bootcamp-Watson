@@ -29,6 +29,7 @@ Analice textos con la comprensión de **Watson Natural Language Understanding** 
 4. ### Clasificacion de lenguaje natural.<br>
 ¿Qué es?
 **Watson Natural Language Classifier** devuelve las clases que mejor coinciden para una oración o frase. Por ejemplo, usted envía una pregunta y esto devuelve las claves para las respuestas que mejor coinciden o las acciones siguientes para su aplicación.
+**NOTA IMPORTANTE: Este servicio no tiene version lite, por lo que necesitaras creditos para crearlo y usarlo**
 * [![IBM Cloud Watson Natural Language Classifier][img-nlc]][url-nlc] Para obtener más información.
 * [![Demo Natural Language Classifier][img-demonlc]][url-demonlc] Para probar como funciona.
 
