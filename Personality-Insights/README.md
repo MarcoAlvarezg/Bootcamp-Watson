@@ -32,7 +32,7 @@ Aplicación que simula una herramienta que ayuda a pronosticar las característi
 
 Empezaremos creando nuestro servicio dentro de IBM Cloud. Para esto, iremos a la parte de catalogo y buscaremos Personality Insihgts.
 
-![](/assets/im1.png)
+![](assets/im1.png)
 
 ![](/docs/im2.png)
 
