@@ -28,37 +28,42 @@ Analice textos con la comprensión de **Watson Natural Language Understanding** 
 
 4. ### Clasificacion de lenguaje natural.<br>
 ¿Qué es?
-**Watson Natural Language Classifier** devuelve las clases que mejor coinciden para una oración o frase. Por ejemplo, usted envía una pregunta y esto devuelve las claves para las respuestas que mejor coinciden o las acciones siguientes para su aplicación.
+**Watson Natural Language Classifier** devuelve las clases que mejor coinciden para una oración o frase. Por ejemplo, usted envía una pregunta y esto devuelve las claves para las respuestas que mejor coinciden o las acciones siguientes para su aplicación.<br>
 **NOTA IMPORTANTE: Este servicio no tiene version lite, por lo que necesitaras creditos para crearlo y usarlo**
 * [![IBM Cloud Watson Natural Language Classifier][img-nlc]][url-nlc] Para obtener más información.
 * [![Demo Natural Language Classifier][img-demonlc]][url-demonlc] Para probar como funciona.
 
-5. ### Voz a texto.<br>
+5. ### Classificacion de lenguaje especifico.<br>
+¿Qué es?
+**Watson Knowledge Studio** le permitira enseñar a **Watson** el lenguaje de su industria u organización sin necesidad de conocimientos técnicos profundos o codificación.<br>
+* [![IBM Cloud Watson Knowledge Studio][img-ks]][url-ks] Para obtener más información.
+* [![Demo Watson Knowledge Studio][img-demoks]][url-demoks] Para probar como funciona.
+
+6. ### Voz a texto.<br>
 ¿Qué es?
 **Watson Speech to Text** brinda una API para añadir funciones de transcripción de voz a las aplicaciones. Combina información sobre la estructura del lenguaje con la composición de la señal de audio.
 * [![IBM Cloud Watson Speech to Text][img-speech]][url-speech] Para obtener mayor información.
 * [![Demo Speech to text][img-demospeech]][url-demospeech] Para probar como funciona.
 
-6. ### Texto a voz.<br>
+7. ### Texto a voz.<br>
 ¿Qué es?
 **Watson Text to Speech** genera audios con voces similares a las de los humanos a partir de textos escritos. Mejore la experiencia y participación del cliente al interactuar con los usuarios en múltiples idiomas y tonos. Incremente la accesibilidad a contenido para los usuarios con capacidades diferentes, ofrezca opciones de audio para evitar distracciones al conducir o automatice las interacciones de servicio al cliente para aumentar la eficiencia.
 * [![IBM Cloud Watson Text to Speech][img-text]][url-text] Para obtener mayor información.
 * [![Demo Text To Speech][img-demotext]][url-demotext] Para probar como funciona.
 
-7. ### Analisis de patrones en documentos.<br>
+8. ### Analisis de patrones en documentos.<br>
 ¿Qué es?
 **Watson Discovery** facilita la construcción de aplicaciones de exploración cognitivas y basadas en la nube que desbloquean las percepciones accionables que hay ocultos en los datos no estructurados, permitiendo extraer el sentimiento, las entidades, los conceptos, los roles semánticos, etc..
 * [![IBM Cloud Watson Discovery][img-discovery]][url-discovery] Para obtener mayor información.
 * [![Demo Discovery][img-demodis]][url-demodis] Para probar como funciona.
 
-8. ### Valores de la personalidad.<br>
+9. ### Valores de la personalidad.<br>
 ¿Qué es?
 **Watson Personality Insights** ayuda a pronosticar las características, las necesidades y los valores de la personalidad por medio de textos escritos. Ayudando a comprender los hábitos y las preferencias de los clientes a nivel individual y a escala.
 * [![IBM Cloud Watson Personality Insights][img-pi]][url-pi] Para obtener mayor información.
 * [![Demo Personality Insights][img-demopi]][url-demopi] Para probar como funiciona.
 * [![Watson Personality Insights][img-gitpi]][url-gitpi] Para crear el tuyo.
-
-9. Knowledge Studio...
+ 
 
 
 
@@ -81,6 +86,8 @@ Analice textos con la comprensión de **Watson Natural Language Understanding** 
 [url-nlu]: https://www.ibm.com/cloud/watson-natural-language-understanding
 [img-nlc]: https://img.shields.io/badge/IBM%20Cloud-Natural%20Language%20Classifier-blue.svg
 [url-nlc]: https://www.ibm.com/cloud/watson-natural-language-classifier
+[img-ks]: https://img.shields.io/badge/IBM%20Cloud-Watson%20Knowledge%20Studio-blue.svg
+[url-ks]: https://www.ibm.com/cloud/watson-knowledge-studio
 [img-speech]: https://img.shields.io/badge/IBM%20Cloud-Speech%20To%20Text-blue.svg
 [url-speech]: https://www.ibm.com/cloud/watson-speech-to-text
 [img-text]: https://img.shields.io/badge/IBM%20Cloud-Text%20To%20Speech-blue.svg
@@ -97,6 +104,8 @@ Analice textos con la comprensión de **Watson Natural Language Understanding** 
 [url-demonlu]: http://dte-nlu-demo.mybluemix.net/self-service/home
 [img-demonlc]: https://img.shields.io/badge/DEMO-Watson%20Natural%20Language%20Classifier-red.svg
 [url-demonlc]: https://natural-language-classifier-demo.ng.bluemix.net
+[img-demoks]: https://img.shields.io/badge/IBM%20Cloud-Watson%20Knowledge%20Studio-red.svg
+[url-demoks]: https://dte-watson-knowledge-studio-demo.mybluemix.net/self-service/home
 [img-demospeech]: https://img.shields.io/badge/DEMO-Watson%20Speech%20To%20Text-red.svg
 [url-demospeech]: https://speech-to-text-demo.ng.bluemix.net/
 [img-demotext]: https://img.shields.io/badge/DEMO-Watson%20Text%20To%20Speech-red.svg
