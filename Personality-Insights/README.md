@@ -34,27 +34,27 @@ Empezaremos creando nuestro servicio dentro de IBM Cloud. Para esto, iremos a la
 
 ![](assets/im1.png)
 
-![](/docs/im2.png)
+![](assets/im2.png)
 
 
 Seleccionamos la region mas cercana, la version **LITE**, lo nombramos, y le agregamos los **TAGS** necesarios, para finalizar le daremos click en crear.
 
-![](/docs/im3.png)
+![](assets/im3.png)
 
-![](/docs/im4.png)
+![](assets/im4.png)
 
 
 Ya que estemos dentro de la pagina principal del servicio donde encontraremos más información de como implementarlo, damos click en **Service Credentials** y despues click en **View Credentials** para copiarlas, ya que lo usaremos mas adelante ( en caso de que no se haya creado de manera automatica, podemos generar una con **New Credential+**). 
 
-![](/docs/im5.png)
+![](assets/im5.png)
 
-![](/docs/im6.png)
+![](assets/im6.png)
 
-![](/docs/im7.png)
+![](assets/im7.png)
 
 Forkeamos y clonamos este repositorio.
 
-![](/docs/im8.png)
+![](assets/im8.png)
 
 podemos usar en la terminal, estando en el escritorio
 
@@ -67,7 +67,7 @@ Ya que este clonado, abrimos en el editor de texto de su elección **app.js** y 
 username: 'apikey',
 password: '<el valor que tenemos en las credenciales apikey>'
 ```
-![](/docs/im9.png)
+![](assets/im9.png)
 
 ## Ejecucion local
 
