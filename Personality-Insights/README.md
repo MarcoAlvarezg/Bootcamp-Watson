@@ -44,9 +44,11 @@ Seleccionamos la region mas cercana, la version **LITE**, lo nombramos, y le agr
 ![](assets/im4.png)
 
 
-Ya que estemos dentro de la pagina principal del servicio donde encontraremos más información de como implementarlo, damos click en **Service Credentials** y despues click en **View Credentials** para copiarlas, ya que lo usaremos mas adelante ( en caso de que no se haya creado de manera automatica, podemos generar una con **New Credential+**). 
+Ya que estemos dentro de la pagina principal del servicio donde encontraremos más información de como implementarlo, damos click en **Service Credentials**. 
 
 ![](assets/im5.png)
+
+Click en **View Credentials** para verlas y copiarlas, ya que lo usaremos mas adelante (en caso de que no se haya creado de manera automatica, podemos generar una con **New Credential+**)
 
 ![](assets/im6.png)
 
@@ -89,7 +91,7 @@ Ya que se haga el llenado del formulario, nos pasara a la siguiente donde nos mo
 * Menos de 100 palabras generan un error.
 
 
-
+**Error absoluto medio promedio (MAE, Average Mean Absolute Error)**
 
 [img-ibmcloud-powered]: https://img.shields.io/badge/IBM%20Cloud-Powered-blue.svg
 [url-ibmcloud]: https://www.ibm.com/cloud/
