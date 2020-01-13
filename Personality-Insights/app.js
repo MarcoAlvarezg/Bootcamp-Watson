@@ -13,7 +13,7 @@ var Estructurador = require('./Estructurador');
 var personalityInsights = new PersonalityInsightsV3({
   version_date: '2017-10-13',
   username: 'apikey',
-  password: ''
+  password: '<Credenciales de IBM CLoud>'
 });
 
 var urlencodedParser = bodyParser.urlencoded({ extended: false });
@@ -39,7 +39,7 @@ app.post('/upload', urlencodedParser ,(req, res) => {
   // console.log(JSON.stringify(req.body));
   // console.log(typeof JSON.stringify(typeof req.body));
 
-var cont = JSON.stringify(req.body.p1 + req.body.p2 + req.body.p3 + req.body.p4 + req.body.p5);
+var cont = JSON.stringify(req.body.p1 + req.body.p6 + req.body.p2 + req.body.p3 + req.body.p4 + req.body.p5);
 
 
 var audaciaN;
