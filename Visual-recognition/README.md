@@ -2,7 +2,7 @@
 
 
 # Watson Visual Recognition
-Aplicacion que nos permitirará subir una imagen para que el servicio de IBM CLOUD lo analice, y haga un reconocimiento con base en una clasificación que se entrenara de manera personalizada, mas una clasificación de manera general que el servicio ya tiene pre-entrenada.
+Aplicacion que nos permitirará subir una imagen para que el servicio de IBM CLOUD lo analice, y haga un reconocimiento con base en una clasificación que se entrenara de manera personalizada, mas una clasificación de manera general que el servicio ya tiene pre-entrenada. Y despliegalo en una app directamente a IBM Cloud!
 
 [![IBM Visual Recognition][img-visual]][url-visual] 
 [![Demo Visual Recognition][img-demovisual]][url-demovisual]
@@ -11,7 +11,6 @@ Aplicacion que nos permitirará subir una imagen para que el servicio de IBM CLO
 # IBM Recipe - Visual recognition 
 ![](assets/visualrec.png)<br/> 
 
-Aprende a crear un servicio de visual recognition para clasificar tacos y despliegalo en una app directamente a IBM Cloud!
 # Pre-requisitos
 •	Tener instalado [**Node.js**](https://nodejs.org/es/).<br/>
 •	Tener una cuenta de [**IBM Cloud**](https://cloud.ibm.com/login).<br/>
