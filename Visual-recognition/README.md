@@ -1,3 +1,13 @@
+[![IBM Cloud powered][img-ibmcloud-powered]][url-ibmcloud]
+
+
+# Watson Visual Recognition
+Aplicacion que nos permitirará subir una imagen para que el servicio de IBM CLOUD lo analice, y haga un reconocimiento con base en una clasificación que se entrenara de manera personalizada, mas una clasificación de manera general que el servicio ya tiene pre-entrenada.
+
+[![IBM Visual Recognition][img-visual]][url-visual] 
+[![Demo Visual Recognition][img-demovisual]][url-demovisual]
+
+
 # IBM Recipe - Visual recognition 
 ![](assets/visualrec.png)<br/> 
 
@@ -133,3 +143,12 @@ Podemos consultar el URL de la app esperando a que el despliegue termine ó busc
 
 ![](assets/cloud31.png)<br/><br/>
 
+
+
+
+[img-ibmcloud-powered]: https://img.shields.io/badge/IBM%20Cloud-Powered-blue.svg
+[url-ibmcloud]: https://www.ibm.com/cloud/
+[img-visual]: https://img.shields.io/badge/IBM%20Cloud-Watson%20Visual%20Recongnition-blue.svg
+[url-visual]: https://www.ibm.com/cloud/watson-visual-recognition
+[img-demovisual]: https://img.shields.io/badge/DEMO-Watson%20Visual%20Recongnition-red.svg
+[url-demovisual]: https://watson-visual-recognition-duo-dev.ng.bluemix.net/
