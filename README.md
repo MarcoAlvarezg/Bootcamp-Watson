@@ -122,5 +122,5 @@ Analice textos con la comprensión de **Watson Natural Language Understanding** 
 [url-gitvisual]: /Visual-recognition
 [img-gitpi]: https://img.shields.io/badge/GIT-Watson%20Personality%20Insights-blueviolet.svg
 [url-gitpi]: /Personality-Insights
-[img-dis]: https://img.shields.io/badge/GIT-Watson%%20Discovery-blueviolet.svg
+[img-dis]: https://img.shields.io/badge/GIT-Watson%20Discovery-blueviolet.svg
 [url-dis]: /Watson-Discovery
