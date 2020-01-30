@@ -48,6 +48,23 @@ IBM Developer Advocates Team
 * Utilizar safari, chrome, firefox, edge
 * Descargar con “fork” y un “clone” el siguiente repositorio: [Discovery][url-repodis]
 
+
+### Cupones para Estudiantes y profesores
+
+* Acceder al HUB para Software para uso académico. Y navegar hasta la parte de abajo de la pagina https://onthehub.com/ibm/?utm_sourc=ibm-ai-productpage&utm_medium=onthehubproductpage&utm_campaign=IBM
+* Buscar el WebStore del instituto/escuela al que perteneces.
+* En caso de no contar con WebStore, acceder al portal de IBM Academic Initiative y seleccionar la opción de Seleccionar para IBM Bluemix – 6 Month Trial.
+* Realizar el registro correspondiente utilizando la cuenta de correo académica
+
+### Cargar créditos en IBM Cloud
+
+* En la parte superior derecha, buscaremos la parte de "MANAGE"/"GESTIONAR", nos desplegara una lista y seleccionaremos "Account"/"Cuenta".
+* De lado izquierdo, tendremos una opción "Account settings"/"Configuracion de cuenta".
+* Bajamos un poco hasta encontrar "Subscription and feature codes"/"Codigos de suscripción y carateristicas".
+* Da click en "Apply code"/"Aplicar codigo".
+* Ingresamos el codigo y click en "Apply"/"Aplicar".
+
+
 ## Crear una instancia de Discovery<br>
 1. En la parte superior derecha, damos clic en catalog o catálogo.
 2. En el menú del lado izquierdo, selecciona la opción de AI y posteriormente, el servicio de Discovery.
