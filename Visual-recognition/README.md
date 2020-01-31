@@ -17,7 +17,7 @@ Aplicacion que nos permitirará subir una imagen para que el servicio de IBM CLO
 * Si eres estudiante o profesor y tienes correo institucional te recomendamos los [Cupones][url-cupones].
 * Si tienes algun codigo promocional te decimos como [Aplicarlos][url-aplica].
 
-[url-prewokr]: https://github.com/ibmdevelopermx/Cloud-Apps-Serie#Prework
+[url-prework]: https://github.com/ibmdevelopermx/Cloud-Apps-Serie#Prework
 [url-cupones]: https://github.com/ibmdevelopermx/Cloud-Apps-Serie#Cupones-para-profesores-y-estudiantes
 [url-aplica]: https://github.com/ibmdevelopermx/Cloud-Apps-Serie#Cargar-cr%C3%A9ditos-en-IBM-Cloud
 
