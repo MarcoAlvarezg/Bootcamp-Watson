@@ -34,34 +34,34 @@ Analice textos con la comprensión de **Watson Natural Language Understanding** 
 * [![Demo Natural Language Understanding][img-demonlu]][url-demonlu] Para probar como funciona.
 * [![Watson Natural Language Understanding][img-gitnlu]][url-gitnlu] Para crear el tuyo.
 
-4. ### Clasificacion de lenguaje natural.<br>
-¿Qué es?
-**Watson Natural Language Classifier** devuelve las clases que mejor coinciden para una oración o frase. Por ejemplo, usted envía una pregunta y esto devuelve las claves para las respuestas que mejor coinciden o las acciones siguientes para su aplicación.<br>
-**NOTA IMPORTANTE: Este servicio no tiene version lite, por lo que necesitaras creditos para crearlo y usarlo**
-* [![IBM Cloud Watson Natural Language Classifier][img-nlc]][url-nlc] Para obtener más información.
-* [![Demo Natural Language Classifier][img-demonlc]][url-demonlc] Para probar como funciona.
-
-5. ### Classificacion de lenguaje especifico.<br>
+4. ### Classificacion de lenguaje especifico.<br>
 ¿Qué es?
 **Watson Knowledge Studio** le permitira enseñar a **Watson** el lenguaje de su industria u organización sin necesidad de conocimientos técnicos profundos o codificación.<br>
 * [![IBM Cloud Watson Knowledge Studio][img-ks]][url-ks] Para obtener más información.
 * [![Demo Watson Knowledge Studio][img-demoks]][url-demoks] Para probar como funciona.
 
-6. ### Analisis de patrones en documentos.<br>
+5. ### Analisis de patrones en documentos.<br>
 ¿Qué es?
 **Watson Discovery** facilita la construcción de aplicaciones de exploración cognitivas y basadas en la nube que desbloquean las percepciones accionables que hay ocultos en los datos no estructurados, permitiendo extraer el sentimiento, las entidades, los conceptos, los roles semánticos, etc..
 * [![IBM Cloud Watson Discovery][img-discovery]][url-discovery] Para obtener mayor información.
 * [![Demo Discovery][img-demodis]][url-demodis] Para probar como funciona.
 * [![Watson Discovery][img-dis]][url-dis] Para crear uno prediseñado.
 
-7. ### Valores de la personalidad.<br>
+6. ### Valores de la personalidad.<br>
 ¿Qué es?
 **Watson Personality Insights** ayuda a pronosticar las características, las necesidades y los valores de la personalidad por medio de textos escritos. Ayudando a comprender los hábitos y las preferencias de los clientes a nivel individual y a escala.
 * [![IBM Cloud Watson Personality Insights][img-pi]][url-pi] Para obtener mayor información.
 * [![Demo Personality Insights][img-demopi]][url-demopi] Para probar como funiciona.
 * [![Watson Personality Insights][img-gitpi]][url-gitpi] Para crear el tuyo.
  
-<!-- 8. ### Voz a texto.<br>
+<!-- 7. ### Clasificacion de lenguaje natural.<br>
+¿Qué es?
+**Watson Natural Language Classifier** devuelve las clases que mejor coinciden para una oración o frase. Por ejemplo, usted envía una pregunta y esto devuelve las claves para las respuestas que mejor coinciden o las acciones siguientes para su aplicación.<br>
+**NOTA IMPORTANTE: Este servicio no tiene version lite, por lo que necesitaras creditos para crearlo y usarlo**
+* [![IBM Cloud Watson Natural Language Classifier][img-nlc]][url-nlc] Para obtener más información.
+* [![Demo Natural Language Classifier][img-demonlc]][url-demonlc] Para probar como funciona.
+
+8. ### Voz a texto.<br>
 ¿Qué es?
 **Watson Speech to Text** brinda una API para añadir funciones de transcripción de voz a las aplicaciones. Combina información sobre la estructura del lenguaje con la composición de la señal de audio.
 * [![IBM Cloud Watson Speech to Text][img-speech]][url-speech] Para obtener mayor información.
