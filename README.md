@@ -39,6 +39,7 @@ Analice textos con la comprensión de **Watson Natural Language Understanding** 
 **Watson Knowledge Studio** le permitira enseñar a **Watson** el lenguaje de su industria u organización sin necesidad de conocimientos técnicos profundos o codificación.<br>
 * [![IBM Cloud Watson Knowledge Studio][img-ks]][url-ks] Para obtener más información.
 * [![Demo Watson Knowledge Studio][img-demoks]][url-demoks] Para probar como funciona.
+* [![GIT Watson Knowledge Studio][img-gitks]][url-gitks] Para conocer como crearlo.
 
 5. ### Analisis de patrones en documentos.<br>
 ¿Qué es?
@@ -156,3 +157,5 @@ Analice textos con la comprensión de **Watson Natural Language Understanding** 
 [url-gitpi]: /Personality-Insights
 [img-dis]: https://img.shields.io/badge/GIT-Watson%20Discovery-blueviolet.svg
 [url-dis]: /Watson-Discovery
+[img-gitks]: https://img.shields.io/badge/GIT-Watson%20Knowledge%20Studio-blueviolet.svg
+[url-gitks]:/Knowledge-Studio

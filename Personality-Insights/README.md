@@ -6,14 +6,6 @@ Aplicación que simula una herramienta que ayuda a pronosticar las característi
 [![IBM Personality Insights][img-pi]][url-pi] 
 [![Demo Personality Insights][img-demopi]][url-demopi]
 
-## Prework:
-* Cuenta de [IBM Cloud][url-IBMCLOUD]
-* Instalar [CLI de IBM Cloud][url-CLI-IBMCLOUD] 
-* Cuenta en [GitHub][url-github-join]
-* Instalar [CLI de GitHub][url-github-cli] o instalar [GitHub Desktop][url-githubdesktop]
-* [NodeJS][url-node]
-* Utilizar safari, chrome, firefox, edge
-
 
 ## Antes de empezar te recomendamos:
 * Realizar el [PreWork][url-prework].
