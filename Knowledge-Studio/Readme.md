@@ -14,8 +14,8 @@ Enseñe a **IBM Watson** el lenguaje con modelos personalizados que identifican 
 * Si eres estudiante o profesor y tienes correo institucional te recomendamos los [Cupones][url-cupones].
 * Si tienes algun codigo promocional te decimos como [Aplicarlos][url-aplica].
 
-[url-cupones]: https://github.com/ibmdevelopermx/Cloud-Apps-Serie#Cupones-para-profesores-y-estudiantes
-[url-aplica]: https://github.com/ibmdevelopermx/Cloud-Apps-Serie#Cargar-cr%C3%A9ditos-en-IBM-Cloud
+[url-cupones]: https://github.com/ibmdevelopermx/Watson-Serie#Cupones-para-profesores-y-estudiantes
+[url-aplica]: https://github.com/ibmdevelopermx/Watson-Serie#Cargar-cr%C3%A9ditos-en-IBM-Cloud
 
 
 # Índice
