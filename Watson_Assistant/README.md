@@ -3,35 +3,14 @@
 
 Aprende a crear un asistente virtual para ordenar tacos!
 
-## Prework:
-* Cuenta de [IBM Cloud][url-IBMCLOUD]
-* Instalar [CLI de IBM Cloud][url-CLI-IBMCLOUD] 
-* Cuenta en [GitHub][url-github-join]
-* Instalar [CLI de GitHub][url-github-cli] o instalar [GitHub Desktop][url-githubdesktop]
-* [NodeJS][url-node]
-* Utilizar safari, chrome, firefox, edge
+## Antes de empezar te recomendamos:
+* Realizar el [PreWork][url-prework].
+* Si eres estudiante o profesor y tienes correo institucional te recomendamos los [Cupones][url-cupones].
+* Si tienes algun codigo promocional te decimos como [Aplicarlos][url-aplica].
 
-### Cupones para Estudiantes y profesores
-
-* Acceder al HUB para Software para uso académico. Y navegar hasta la parte de abajo de la pagina https://onthehub.com/ibm/?utm_sourc=ibm-ai-productpage&utm_medium=onthehubproductpage&utm_campaign=IBM
-* Buscar el WebStore del instituto/escuela al que perteneces.
-* En caso de no contar con WebStore, acceder al portal de IBM Academic Initiative y seleccionar la opción de Seleccionar para IBM Bluemix – 6 Month Trial.
-* Realizar el registro correspondiente utilizando la cuenta de correo académica
-
-### Cargar créditos en IBM Cloud
-
-* En la parte superior derecha, buscaremos la parte de "MANAGE"/"GESTIONAR", nos desplegara una lista y seleccionaremos "Account"/"Cuenta".
-* De lado izquierdo, tendremos una opción "Account settings"/"Configuracion de cuenta".
-* Bajamos un poco hasta encontrar "Subscription and feature codes"/"Codigos de suscripción y carateristicas".
-* Da click en "Apply code"/"Aplicar codigo".
-* Ingresamos el codigo y click en "Apply"/"Aplicar".
-
-[url-IBMCLOUD]: https://cloud.ibm.com/registration
-[url-CLI-IBMCLOUD]: https://cloud.ibm.com/docs/cli/reference/ibmcloud?topic=cloud-cli-install-ibmcloud-cli
-[url-github-join]: https://github.com/join
-[url-github-cli]: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
-[url-githubdesktop]: https://desktop.github.com/
-[url-node]: https://nodejs.org/es/download/
+[url-prewokr]: https://github.com/ibmdevelopermx/Cloud-Apps-Serie#Prework
+[url-cupones]: https://github.com/ibmdevelopermx/Cloud-Apps-Serie#Cupones-para-profesores-y-estudiantes
+[url-aplica]: https://github.com/ibmdevelopermx/Cloud-Apps-Serie#Cargar-cr%C3%A9ditos-en-IBM-Cloud
 
 
 # Creación del servicio

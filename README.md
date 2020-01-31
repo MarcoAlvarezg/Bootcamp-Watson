@@ -5,6 +5,13 @@ Estas herramientas las encontraras en [![IBM Cloud Powered][img-ibmcloud-powered
 
 Conoceras la inteligencia artificial de IBM Cloud, Watson [![IBM Cloud Watson][img-ibmcloud-watson]][url-ibmcloud-watson]
 
+
+## Antes de empezar te recomendamos:
+* Realizar el [PreWork](#Prework).
+* Si eres estudiante o profesor y tienes correo institucional te recomendamos los [Cupones](#Cupones-para-profesores-y-estudiantes).
+* Si tienes algun codigo promocional te decimos como [Aplicarlos](#Cargar-créditos-en-IBM-Cloud).
+
+
 ## Conoceras que herramientas como:
 1. ### Asistente virtual.<br>
 ¿Qué es? 
@@ -66,13 +73,38 @@ Analice textos con la comprensión de **Watson Natural Language Understanding** 
 * [![IBM Cloud Watson Text to Speech][img-text]][url-text] Para obtener mayor información.
 * [![Demo Text To Speech][img-demotext]][url-demotext] Para probar como funciona. -->
 
+## Prework:
+* Cuenta de [IBM Cloud][url-IBMCLOUD]
+* Instalar [CLI de IBM Cloud][url-CLI-IBMCLOUD] 
+* Cuenta en [GitHub][url-github-join]
+* Instalar [CLI de GitHub][url-github-cli] o instalar [GitHub Desktop][url-githubdesktop]
+* Instalar [NodeJS][url-node]
+* Utilizar safari, chrome, firefox, edge
 
+## Cupones para profesores y estudiantes:
 
+* Acceder al portal de [IBM Academic Initiative][url-academic] y seleccionar la opción "Register now" si aun no tienes cuenta.
+* Realizar el registro correspondiente utilizando la cuenta de correo académica y confirma tu cuenta.
+* Despues de confirmar tu cuenta, y con la sesion iniciada en IBM Academic Initiative, en la parte de "Most Popular Topics covered", encontraremos **IBM Cloud** y damos click en "Learn more".
+* Bajamos de la pagina hasta encontrar "Software". Le damos click, nos dara un apartado que se llama "Request Feature Code".
+* Nos dara nuestro codigo. Lo copiamos y lo llevamos a **IBM Cloud**.
 
+## Cargar créditos en IBM Cloud:
 
+* En la parte superior derecha, buscaremos la parte de "MANAGE"/"GESTIONAR", nos desplegara una lista y seleccionaremos "Account"/"Cuenta".
+* De lado izquierdo, tendremos una opción "Account settings"/"Configuracion de cuenta".
+* Bajamos un poco hasta encontrar "Subscription and feature codes"/"Codigos de suscripción y carateristicas".
+* Da click en "Apply code"/"Aplicar codigo".
+* Ingresamos el codigo y click en "Apply"/"Aplicar".
 
-
-
+[url-academic]: https://my15.digitalexperience.ibm.com/b73a5759-c6a6-4033-ab6b-d9d4f9a6d65b/dxsites/151914d1-03d2-48fe-97d9-d21166848e65/home/
+[url-onthehub]: https://onthehub.com/ibm/?utm_sourc=ibm-ai-productpage&utm_medium=onthehubproductpage&utm_campaign=IBM
+[url-IBMCLOUD]: https://cloud.ibm.com/registration
+[url-CLI-IBMCLOUD]: https://cloud.ibm.com/docs/cli/reference/ibmcloud?topic=cloud-cli-install-ibmcloud-cli
+[url-github-join]: https://github.com/join
+[url-github-cli]: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+[url-githubdesktop]: https://desktop.github.com/
+[url-node]: https://nodejs.org/es/download/
 
 [img-ibmcloud-powered]: https://img.shields.io/badge/IBM%20Cloud-Powered-blue.svg
 [url-ibmcloud]: https://www.ibm.com/cloud/
